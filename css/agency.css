@@ -563,6 +563,11 @@ header.masthead .intro-text .intro-heading {
   }
 }
 
+.center {
+  width: 50%;
+  margin: 0 auto;
+}
+
 .team-member {
   margin-bottom: 50px;
   text-align: center;
